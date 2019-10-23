@@ -32,7 +32,7 @@
 
 def naming_system
   
-Animal_kingdom = 
+{
   label: "Kingdom",
   sub_category: {
     label: "Phylum",
@@ -53,7 +53,7 @@ Animal_kingdom =
       }
     }
   }
-
+}
   
   # Remember:
   #  Kingdom
