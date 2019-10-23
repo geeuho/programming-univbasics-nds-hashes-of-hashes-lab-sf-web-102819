@@ -38,9 +38,9 @@ def naming_system
     label: "Phylum",
     sub_category: {
       label: "Class",
-      subcategory: {
+      sub_category: {
         label:"Order",
-        subcategory: {
+        sub_category: {
           label:"Family",
           sub_category: {
             label: "Genus",
